@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am a SD at Hack4Impact!
 
 ## My Profile
 
@@ -9,13 +9,17 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
     <td align="center">
       <a href="tacobell.com">
         <img
-          src="https://data.whicdn.com/images/317675372/original.jpg"
+          src="ashay.jpg"
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Ashay Parikh</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Fun Fact: I am an Amateur Photographer</i></b></sub>
+        <img
+          src="italy.jpg"
+          width="auto"
+        />
       </a>
     </td>
     </tr>
