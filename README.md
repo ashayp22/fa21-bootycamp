@@ -15,9 +15,17 @@ I am a SD at Hack4Impact!
         <br />
         <b><i>Ashay Parikh</i></b>
         <br />
-        <sub><b><i>Fun Fact: I am an Amateur Photographer</i></b></sub>
+        <sub><b><i>Fun Fact: I am an Amateur iPhone Photographer</i></b></sub>
         <img
           src="italy.jpg"
+          width="auto"
+        />
+        <img
+          src="good.HEIC"
+          width="auto"
+        />
+        <img
+          src="good2.jpg"
           width="auto"
         />
       </a>
