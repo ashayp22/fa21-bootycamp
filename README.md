@@ -21,7 +21,7 @@ I am a SD at Hack4Impact!
           width="auto"
         />
         <img
-          src="good.HEIC"
+          src="good.jpg"
           width="auto"
         />
         <img
